@@ -2,7 +2,7 @@ baseurl: ''
 exclude:
   - README.md
 permalink: pretty
-title: Jekyll Serif
+title: Perpetua Growth
 google_analytics_id: ''
 homepage:
   show_call_box: true
